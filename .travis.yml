@@ -21,5 +21,4 @@ after_success:
   - docker push ricky/multi-server
   - docker push ricky/multi-worker
 
-
 language: generic
